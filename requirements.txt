@@ -1,0 +1,5 @@
+numpy>=1.24
+requests>=2.31
+faster-whisper>=1.0.3     # default ASR backend (local Whisper, CTranslate2)
+sherpa-onnx>=1.10         # alternative ASR backend (Whisper ONNX + Silero VAD)
+jupyter                   # to run the notebook

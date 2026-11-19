@@ -1,0 +1,101 @@
+# SOAP Note
+
+**Patient:** sex: female
+
+## S - Subjective
+**Chief complaint:** Right lateral elbow pain
+
+**History of present illness**
+- Pain on outside of right elbow, first noticed several months ago
+- No trauma or trigger identified
+- Recently more painful; progressively worsening over several months
+- Pain worse at end of work
+- Pain quality achy, sometimes sharp with movement
+- Pain severity 4/10
+- Aggravated by bending wrist down, picking up or holding heavy objects, and repetitive line work
+- Rest improves pain
+- Ibuprofen helps; takes it at times to get through work
+- Drugstore topical product took the edge off slightly
+- No previous episodes of similar pain
+- Pain localized to one spot, no radiation
+- Reports full ROM of right elbow and hand
+- Able to manage daily tasks and work so far, but becoming an issue at work
+- Right-hand dominant
+
+**Past medical / surgical history**
+- Otherwise healthy, no long-standing medical conditions
+- C-section 17 years ago (non-emergency)
+- Immunizations up to date
+
+**Medications**
+- Tylenol for pain
+- Advil (ibuprofen) for pain
+
+**Allergies**
+- No known allergies
+
+**Social / family history**
+- Works on a line with repetitive tasks
+- Never smoked
+- Denies marijuana use
+- Alcohol about 1 drink per week
+- No recent sick contacts
+- No recent travel
+- No family history of musculoskeletal issues
+- No family history of neurological issues
+- No family history of autoimmune conditions
+
+**Review of systems**
+- Denies numbness or tingling in arm
+- Denies arm coldness
+- Denies pain in other joints or muscle groups
+- Denies visible redness or swelling of right elbow
+- Denies misalignment or asymmetry compared to other elbow
+- Denies skin changes or deformity
+- Denies warmth over area
+- Denies weight loss, weight stable
+- Denies fever or chills
+- Denies fatigue, energy good
+- Denies rashes
+- Denies changes in vision, hearing, smell or taste
+- Denies cough, shortness of breath or wheezing
+- Denies chest pain, palpitations or dizziness
+- Denies change in bowel movements
+- Denies nausea or vomiting
+- Denies urinary symptoms
+- Denies memory loss or confusion
+
+## O - Objective
+**Vital signs**
+- _Not documented_
+
+**Physical exam**
+- Pain on palpation of lateral right elbow
+- No pain on palpation of medial elbow
+- No pain on palpation of forearm or biceps
+- Pain with wrist extension with elbow in full extension
+- Pain with wrist flexion with elbow in full extension
+- No pain with elbow flexion
+- No pain with shoulder extension
+- No pain with shoulder adduction
+- No pain with forearm pronation and supination
+
+**Labs / imaging**
+- _Not documented_
+
+## A - Assessment
+- Likely lateral epicondylitis (tennis elbow), right elbow
+- Possible predisposing factor: repetitive strain at work with continuous contraction of wrist extensor muscle group
+
+## P - Plan
+- No imaging indicated: no trauma, low concern for fracture
+- Activity modification at work: avoid repetitive tasks, especially those using forearm extensor muscles
+- Compression sleeve
+- Splint optional
+- Continue Tylenol or NSAIDs for pain
+- Physical therapy to improve mobility and strength of arm
+- Apply ice for pain and swelling
+- Education: typically resolves in a couple of months with PT and compression; up to 2 years at most
+
+---
+_Engine: llm:anthropic:claude-sonnet-5-5 | Subjective items moved out of Objective: 0 | Ungrounded numbers: none_
